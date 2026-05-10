@@ -1,8 +1,8 @@
 # QuickPay FinTech Operations Case Study
 
-**Student Name:** [Your Name]  
-**Student ID:** [Your ID]  
-**Public GitHub Repository Link:** [Repository URL]  
+**Student Name:** [Sagata Chatterjee]  
+**Student ID:** [bitsom_ftai_2601213]  
+**Public GitHub Repository Link:** [https://github.com/sagatachatterjee-10/QuickPay-FinTech-Operations-Case-Study]  
 
 ## Short Run Instructions
 1. Ensure Python 3.x and pandas are installed.
