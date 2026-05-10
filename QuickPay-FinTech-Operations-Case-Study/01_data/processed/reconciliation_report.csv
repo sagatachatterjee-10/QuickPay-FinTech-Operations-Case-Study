@@ -1,0 +1,12 @@
+transaction_id,missing_in_gateway,missing_in_ledger,amount_mismatch,status_mismatch
+R001,0,0,0,0
+R002,0,0,1,0
+R003,0,0,0,0
+R004,1,0,0,0
+R005,0,0,0,1
+R006,0,0,0,0
+R007,0,0,0,0
+R008,0,0,1,0
+R009,0,0,0,0
+R010,1,0,0,0
+R011,0,1,0,0
